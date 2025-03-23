@@ -12,4 +12,4 @@
 * Then, open Advantage Scope, press **Help &#8594; Use Custom Assets Folder**, and finally select the unzipped userAssets.
 * Select the bot you want to use, whether that is the CompBot or CombBot_Elevator
     * If you use CombBot_Elevator, don't forget to put in the Elevator Setpoint as a Component to the Robot. 
-* To add a new resource, reference [Advantage Scope Documentation](https://docs.advantagescope.org/more-features/custom-assets).
+* To add a new resource, reference [Advantage Scope Custom Assets](https://docs.advantagescope.org/more-features/custom-assets).
