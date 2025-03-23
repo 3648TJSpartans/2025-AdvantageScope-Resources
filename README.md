@@ -8,3 +8,4 @@ Advantage Scope layouts, logs, and custom robot files.
 ### Custom Assets
 * To simulate the 3648 2025 CompBot on the 3D field, extract _userAssets.zip_.
 * Then, open Advantage Scope, press **Help &#8594; Use Custom Assets Folder**, and finally select the unzipped userAssets.
+* To add a new resource, reference [Advantage Scope Documentation](https://docs.advantagescope.org/more-features/custom-assets).
