@@ -1,0 +1,4 @@
+You can pull ogs from here down in advantage scope.
+Press File/OpenLog(s)... and then click on the appropriate log file.
+
+Some matches and much testing is missing, either becuase the hardrive wasn't plugged in, or it didn't get pushed. 
